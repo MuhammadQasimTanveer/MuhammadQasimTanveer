@@ -34,6 +34,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadqasimtanveer&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="muhammadqasimtanveer" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadqasimtanveer&" alt="muhammadqasimtanveer" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadqasimtanveer&" alt="muhammadqasimtanveer" /></p>
