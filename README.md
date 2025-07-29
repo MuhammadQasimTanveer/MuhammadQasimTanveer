@@ -29,6 +29,7 @@
  
 <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" alt="daisyUI" width="40" height="40" style="border-radius: 8px;"/>
+</a>
 </a>  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="40" height="40" style="border-radius:8px"/> </a></p>
 
 
