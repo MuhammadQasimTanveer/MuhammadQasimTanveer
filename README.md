@@ -4,11 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadqasimtanveer" alt="muhammadqasimtanveer" /></a> </p>
 
-- 🔭 I’m currently working on a desktop application using the .NET framework.
+- 🔭 I’m currently currently diving into **Node.js** and **Express.js** for full-stack development. 
   
-- 🤝 I’m eager to collaborate on innovative software projects and practical application ideas.
+- 💻 Passionate about building modern web apps with **React** and **Next.js**.
+
+- 🖥️ Also working on projects using **C#** and the **.NET** ecosystem.
   
-- 🌱 I’m currently learning **ReactJs and PHP.**
+- 🌐 Always eager to explore innovative tech and collaborate on impactful projects.
   
 - ❓ Feel free to ask me about front-end development or .NET projects, always happy to share and collaborate.
 
