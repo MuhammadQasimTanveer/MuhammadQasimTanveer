@@ -9,8 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadqasimtanveer" alt="muhammadqasimtanveer" /></a> </p>
 
 - Currently learning **Python backend** for smarter web solutions.
-- Design and develop **scalable full-stack web applications** with clean architecture  
-- Build **high-performance REST APIs** and microservices using Node.js, Express, and .NET  
+- Design and develop **scalable full-stack** web apps with clean architecture  
+- Build high-performance REST APIs using Node.js, Express, and .NET  
 - Convert **Figma prototypes into responsive, user-friendly UI/UX** with React, Next.js, and Tailwind  
 - Motto: Learn consistently, build with purpose, and grow through every challenge.
 
