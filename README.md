@@ -8,25 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadqasimtanveer" alt="muhammadqasimtanveer" /></a> </p>
 
-- 🔭 I’m currently diving into **Node.js** and **Express.js** for full-stack development.
-
-- 💻 Passionate about building modern web apps with **React** and **Next.js**.
-
-- 🖥️ Also working on projects using **C#** and the **.NET** ecosystem.
-
-- 🌐 Always eager to explore innovative tech and collaborate on impactful projects.
-  
-- ❓ Feel free to ask me about front-end development or .NET projects, always happy to share and collaborate.
-
-- 📫 How to reach me: **qasimtanvir.qt84@gmail.com**
-
-  ## 🎯 What I Do
-
 - Currently learning **Python backend** for smarter web solutions.
 - Design and develop **scalable full-stack web applications** with clean architecture  
 - Build **high-performance REST APIs** and microservices using Node.js, Express, and .NET  
 - Convert **Figma prototypes into responsive, user-friendly UI/UX** with React, Next.js, and Tailwind  
-- Optimize applications for **performance, scalability, and maintainability**
 - Motto: Learn consistently, build with purpose, and grow through every challenge.
 
 
