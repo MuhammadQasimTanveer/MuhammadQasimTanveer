@@ -19,8 +19,16 @@
 - ❓ Feel free to ask me about front-end development or .NET projects, always happy to share and collaborate.
 
 - 📫 How to reach me: **qasimtanvir.qt84@gmail.com**
-  
-- ⚡ Motto: Learn consistently, build with purpose, and grow through every challenge.
+
+  ## 🎯 What I Do
+
+- Currently learning **Python backend** for smarter web solutions.
+- Design and develop **scalable full-stack web applications** with clean architecture  
+- Build **high-performance REST APIs** and microservices using Node.js, Express, and .NET  
+- Convert **Figma prototypes into responsive, user-friendly UI/UX** with React, Next.js, and Tailwind  
+- Optimize applications for **performance, scalability, and maintainability**
+- Motto: Learn consistently, build with purpose, and grow through every challenge.
+
 
 <!-- <h2 align="left">Socials:</h2>
 <p align="left">
