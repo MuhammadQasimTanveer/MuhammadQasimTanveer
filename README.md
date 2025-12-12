@@ -10,7 +10,7 @@
 - Currently learning **Python backend** for smarter web solutions.
 - Design and develop **scalable full-stack** web apps with clean architecture  
 - Build high-performance REST APIs using Node.js, Express, and .NET  
-- Convert **Figma prototypes into responsive, user-friendly UI/UX** with React, Next.js, and Tailwind  
+- Convert **Figma prototypes into responsive, user-friendly UI/UX**.
 - Motto: Learn consistently, build with purpose, and grow through every challenge.
 
 <h2 align="left">Socials:</h2
