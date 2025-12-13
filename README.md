@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?               font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=MERN+Stack+Dev+%7C+UI%2FUX+Designer+%7C+.NET+Explorer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=MERN+Stack+Dev+%7C+UI%2FUX+Designer+%7C+.NET+Explorer" alt="Typing SVG" />
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadqasimtanveer&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadqasimtanveer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadqasimtanveer" alt="muhammadqasimtanveer" /></a> </p>
