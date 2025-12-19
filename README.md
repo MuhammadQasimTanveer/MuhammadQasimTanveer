@@ -10,6 +10,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadqasimtanveer" alt="muhammadqasimtanveer" /></a>
 </p>
 
+<h3 align="left"> Expertise & Focus:</h3>
+
 - Currently learning **Python backend** for smarter web solutions.
 - Design and develop **scalable full-stack** web apps with clean architecture  
 - Build high-performance REST APIs using Node.js, Express, and .NET  
