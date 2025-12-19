@@ -5,11 +5,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadqasimtanveer&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadqasimtanveer" /> </p>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadqasimtanveer" />
-  </a>
-</p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadqasimtanveer" alt="muhammadqasimtanveer" /></a>
@@ -21,7 +16,7 @@
 - Convert **Figma prototypes into responsive, user-friendly UI/UX**.
 - Motto: Learn consistently, build with purpose, and grow through every challenge.
 
-<h2 align="left">Socials:</h2
+<h2 align="left">Socials:</h2>
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qasimtanvir.qt84@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qasim-tanvir-3bb7b1386)
 
