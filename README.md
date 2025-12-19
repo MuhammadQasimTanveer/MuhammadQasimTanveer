@@ -17,6 +17,7 @@
 - Motto: Learn consistently, build with purpose, and grow through every challenge.
 
 <h2 align="left">Socials:</h2>
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:qasimtanvir.qt84@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qasim-tanvir-3bb7b1386)
 
