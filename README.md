@@ -37,5 +37,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadqasimtanveer&" alt="muhammadqasimtanveer" /></p>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=muhammadqasimtanveer&hide_border=false)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=muhammadqasimtanveer&hide_border=false" />
+</p>
 
