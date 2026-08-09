@@ -6,16 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadqasimtanveer&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadqasimtanveer" /> </p>
 
-  ## About Me
+  <h2 align="left">About Me</h2>
 
 I'm a Full-Stack Developer focused on building AI-powered applications and intelligent agent-based systems. I enjoy turning ideas into scalable products by combining modern web technologies, backend engineering, AI, and automation.
 
-## Ongoing
+<h2 align="left">Ongoing</h2>
 
 - Building scalable full-stack applications with modern frontend and backend technologies.
 - Exploring **AI Agents and LLM-based systems** for automation and intelligent workflows.
-- Learning **PyTorch and deep learning** by implementing neural networks and training workflows from the fundamentals.
-- Developing **Python backends with FastAPI** and experimenting with production-ready AI/ML deployment.
+- Learning **PyTorch, deep learning, and FastAPI** to build and deploy AI-powered applications.
 
 > Keep learning, keep building, and turn every challenge into progress.
 
