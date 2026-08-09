@@ -1,7 +1,7 @@
 <h1 align="center"> I am Muhammad Qasim</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F97316&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI+Agents+%7C+PyTorch+FastAPI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F97316&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI+Agents+%7C+PyTorch" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadqasimtanveer&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadqasimtanveer" /> </p>
