@@ -6,17 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadqasimtanveer&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadqasimtanveer" /> </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadqasimtanveer" alt="muhammadqasimtanveer" /></a>
-</p> 
+  ## About Me
 
-<h3 align="left"> Expertise & Focus:</h3>
+I'm a Full-Stack Developer focused on building AI-powered applications and intelligent agent-based systems. I enjoy turning ideas into scalable products by combining modern web technologies, backend engineering, AI, and automation.
 
-- Currently learning **Python backend** for smarter web solutions.
-- Design and develop **scalable full-stack** web apps with clean architecture  
-- Build high-performance REST APIs using Node.js, Express, and .NET  
-- Convert **Figma prototypes into responsive, user-friendly UI/UX**.
-- Motto: Learn consistently, build with purpose, and grow through every challenge.
+- Building scalable full-stack applications with modern frontend and backend technologies.
+- Exploring **AI Agents and LLM-based systems** for automation and intelligent workflows.
+- Learning **PyTorch and deep learning** by implementing neural networks and training workflows from the fundamentals.
+- Developing **Python backends with FastAPI** and experimenting with production-ready AI/ML deployment.
+
+> Keep learning, keep building, and turn every challenge into progress.
 
 <h2 align="left">Socials:</h2>
 
